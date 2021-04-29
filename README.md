@@ -1,3 +1,3 @@
 ### Personal Project Repo
 
-This repositry conatians all the project in python programing language
+This repositry conatians all of my personal project in python programing language
